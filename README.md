@@ -6,8 +6,8 @@ To run the application locally, you need to have Docker and Maven installed on y
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/employee-management-app.git
-cd employee-management-app
+git clone https://github.com/your-username/Employee-Management-Application.git
+cd Employee-Management-Application
 ```
 2. Run the following command to start the application and PostgreSQL database using Docker Compose:
 ```bash
